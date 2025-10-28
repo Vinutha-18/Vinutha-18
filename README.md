@@ -1,12 +1,10 @@
-## Hi there 👋
 Vinutha's Portfolio
 
 Welcome to my portfolio! I'm *Vinutha SR. 
 
-
 About Me
 
-Name: VINUTHA
+Name: VINUTHA SR
 
 Location: Bangalore
 
@@ -19,7 +17,9 @@ I’m a self-motivated tech enthusiast and learner. Always eager to learn and en
 Skills
 
 Languages: HTML, CSS, JavaScript
+
 Frameworks & Libraries:Numpy, Pandas, Matplotlib
+
 Tools & Technologies: Git, GitHub
 
 Projects
@@ -27,11 +27,11 @@ Projects
 Here are a few of the projects I've worked on:
 
 1.AI-Powered Data Analyst
- Description: Developed an AI-Based data analysis tool using Streamlit and LLM. Automated insights generation from structured data and visualization
+•	Description: Developed an AI-Based data analysis tool using Streamlit and LLM. Automated insights generation from structured data and visualization
 
 2.Quiz Master Pro using Java
-  Description:Developed a platform quiz for students with sign, login tests and marks.
+•	Description:Developed a platform quiz for students with sign, login tests and marks.
 
 3. Healthcare Management Using Blockchain
-Description: A decentralized application built with blockchain technology for securely managing healthcare records and patient data.
-Technologies Used: HTML, CSS, TypeScript, Vue.js, Blockchain, Smart Contracts
+•	Description: A decentralized application built with blockchain technology for securely managing healthcare records and        patient data.Technologies Used: HTML, CSS, TypeScript, Vue.js, Blockchain, Smart Contracts
+
